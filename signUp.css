@@ -1,0 +1,130 @@
+.right{
+width: 50%;
+height: 776px;
+background-color: rgb(210, 226, 252);
+
+
+}
+#euc{
+    left: 42%;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    position: absolute;
+    top: 10%;
+    font-style: bold;
+    color: rgb(35, 35, 136);
+     font-family: 'Sansita Swashed', cursive;
+}
+#welcome{
+    left: 40%;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    position: absolute;
+    top: 18%;
+
+}
+.left{
+width: 50%;
+height: 776px;
+background-color: rgb(35, 35, 136);
+
+}
+
+.r{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    background-color: seashell;
+    border-left: solid;
+    border-right: solid;
+    border-radius:20px ;
+    border-color: seashell;
+    margin: 50px 50px 0px 50px;
+    width: 93%;
+    padding-top: 40px;
+    
+}
+.l{
+    position: relative;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(210, 226, 252);
+    border-left: solid;
+    border-right: solid;
+    border-radius:20px ;
+    border-color: rgb(210, 226, 252);
+    margin:50px 50px;
+    margin-left: 0;
+    width: 93%;
+    padding-top: 40px;
+    top: -1;
+
+
+}
+#im{
+    width: 90%;
+    height: 96%;
+}
+#google{
+    display: flex;
+    position: absolute;
+    top: 75%;
+    border:solid ;
+    border-color: seashell;
+    border-radius: 10px;
+    background-color: seashell;
+    height: 20px;
+}
+.input{
+    width: 80%;
+    background-color:#c8daec ;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    position: absolute;
+    border:solid ;
+    border-color: #c8daec ;
+    border-radius: 10px;
+    height: 40px;
+    left: 15%;
+}
+#user{
+    top: 25%;
+}
+#email{
+    top: 35%;
+}
+#pass{
+    top: 45%;
+}
+#sign{
+    top:65%
+}
+#keep{
+    left: 15%;
+    top: 56%;
+}
+.k{
+   left: 25%;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    position: absolute;
+    top:55%;
+}
+
+#Facebook{
+    display: flex;
+    position: absolute;
+    top: 80%;
+    border:solid ;
+    border-color: seashell;
+    border-radius: 10px;
+    background-color: seashell;
+    height: 20px;
+}
